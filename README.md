@@ -12,4 +12,4 @@ where the attribute "id" is equal to "42007". It also writes the value to a file
 5. Right-click on "ConsoleAppReadXML.exe" and choose "Run as administrator".<br>
 6. Say "Yes" to allow the app "to make changes" to your device.<br>
 7. Refresh your publish folder and you will see that a new file has been created. It is a file with the name "targetValue.txt".<br>
-8. Open the file "targetValue.txt" in any text reader e.g. notepad. Now you can see the value for "target" written in the file.
+8. Open the file "targetValue.txt" in any text reader e.g. Notepad. Now you can see the value for "target" written in the file.
