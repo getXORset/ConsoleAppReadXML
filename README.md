@@ -2,8 +2,8 @@
 <h2>Purpose</h2> The application loads the file "sma_gentext.xml". It fetches the value from the element "target" 
 where the attribute "id" is equal to "42007". It also writes the value to a file.
 <h2>Instruction on how to run the console application</h2>
-<h3>Prerequisites:</h3> A computer with Windows 10 and .NET Desktop Runtime 6 installed.
-.NET Desktop Runtime 6 can be downloaded from dotnet.microsoft.com, if not already installed.<br>
+<h3>Prerequisites:</h3> A computer with Windows 10 and .NET Desktop Runtime 6 installed.<br>
+.NET Desktop Runtime 6 can be downloaded from https://dotnet.microsoft.com, if not already installed.<br>
 <h3>Proceedings:</h3>
 1. Download "publish.zip" from this repository for ConsoleAppReadXML, to your computer.<br>
 2. Right-click the file and unzip it.<br>
